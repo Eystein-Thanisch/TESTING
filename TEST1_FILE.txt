@@ -1,0 +1,8 @@
+REBASE_TEST1
+REBASE_TEST1
+REBASE_TEST1
+REBASE_TEST1
+REBASE_TEST1
+REBASE_TEST1
+
+This file is going to be merged with master.
